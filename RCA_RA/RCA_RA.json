@@ -1,0 +1,454 @@
+{
+    "models": [
+        {
+            "name": "LRA_main_branch.stl",
+            "path": "RCA_RA/LRA_main_branch.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRA_main_branch.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_1.stl",
+            "path": "RCA_RA/LRAbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAbranch_1.stl",
+            "opacity": 1.0,
+            "color": "#3181f1",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_2.stl",
+            "path": "RCA_RA/LRAbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAbranch_2.stl",
+            "opacity": 1.0,
+            "color": "#9ddd39",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_3.stl",
+            "path": "RCA_RA/LRAbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAbranch_3.stl",
+            "opacity": 1.0,
+            "color": "#38665e",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_4.stl",
+            "path": "RCA_RA/LRAbranch_4.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAbranch_4.stl",
+            "opacity": 1.0,
+            "color": "#15fc90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_1.stl",
+            "path": "RCA_RA/LRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#3181f1",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_2.stl",
+            "path": "RCA_RA/LRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#9ddd39",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_3.stl",
+            "path": "RCA_RA/LRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#38665e",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_4.stl",
+            "path": "RCA_RA/LRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/LRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#15fc90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRA_main_branch.stl",
+            "path": "RCA_RA/RRA_main_branch.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRA_main_branch.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_1.stl",
+            "path": "RCA_RA/RRAbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAbranch_1.stl",
+            "opacity": 1.0,
+            "color": "#3181f1",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_2.stl",
+            "path": "RCA_RA/RRAbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAbranch_2.stl",
+            "opacity": 1.0,
+            "color": "#9ddd39",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_3.stl",
+            "path": "RCA_RA/RRAbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAbranch_3.stl",
+            "opacity": 1.0,
+            "color": "#38665e",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_4.stl",
+            "path": "RCA_RA/RRAbranch_4.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAbranch_4.stl",
+            "opacity": 1.0,
+            "color": "#15fc90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_5.stl",
+            "path": "RCA_RA/RRAbranch_5.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAbranch_5.stl",
+            "opacity": 1.0,
+            "color": "#7c1273",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_1.stl",
+            "path": "RCA_RA/RRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#3181f1",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_2.stl",
+            "path": "RCA_RA/RRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#9ddd39",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_3.stl",
+            "path": "RCA_RA/RRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#38665e",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_4.stl",
+            "path": "RCA_RA/RRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#15fc90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_5.stl",
+            "path": "RCA_RA/RRAterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/RRAterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#7c1273",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "aorta.stl",
+            "path": "RCA_RA/aorta.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/aorta.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_cyst_1.stl",
+            "path": "RCA_RA/left_cyst_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/left_cyst_1.stl",
+            "opacity": 1.0,
+            "color": "#cdcd64",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_cyst_2.stl",
+            "path": "RCA_RA/left_cyst_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpglv/RCA/master/RCA_RA/left_cyst_2.stl",
+            "opacity": 1.0,
+            "color": "#cdcd64",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_shell.stl",
+            "path": "RCA_RA/mass_shell.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/mass_shell.stl",
+            "opacity": 0.4,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "right_tumor.stl",
+            "path": "RCA_RA/right_tumor.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_RA/right_tumor.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "models": [
+        {
+            "name": "aorta.stl",
+            "path": "RCA_NAR/aorta.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/aorta.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "cava.stl",
+            "path": "RCA_NAR/cava.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/cava.stl",
+            "opacity": 1.0,
+            "color": "#8da7f4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "graft_1_m5_a30.stl",
+            "path": "RCA_NAR/graft_1_m5_a30.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/graft_1_m5_a30.stl",
+            "opacity": 0.4,
+            "color": "#7f7f7f",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "graft_2_m10_a30.stl",
+            "path": "RCA_NAR/graft_2_m10_a30.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/graft_2_m10_a30.stl",
+            "opacity": 0.4,
+            "color": "#7f7f7f",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "graft_3_m15_a30.stl",
+            "path": "RCA_NAR/graft_3_m15_a30.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/graft_3_m15_a30.stl",
+            "opacity": 0.4,
+            "color": "#7f7f7f",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_artery.stl",
+            "path": "RCA_NAR/left_artery.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/left_artery.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_cyst_1.stl",
+            "path": "RCA_NAR/left_cyst_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/left_cyst_1.stl",
+            "opacity": 1.0,
+            "color": "#cdcd64",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_cyst_2.stl",
+            "path": "RCA_NAR/left_cyst_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/left_cyst_2.stl",
+            "opacity": 1.0,
+            "color": "#cdcd64",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_kidney.stl",
+            "path": "RCA_NAR/left_kidney.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/left_kidney.stl",
+            "opacity": 0.4,
+            "color": "#b96653",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_urinary_system.stl",
+            "path": "RCA_NAR/left_urinary_system.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/left_urinary_system.stl",
+            "opacity": 1.0,
+            "color": "#d0e667",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_veins.stl",
+            "path": "RCA_NAR/left_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/left_veins.stl",
+            "opacity": 1.0,
+            "color": "#8da7f4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "remnant_1_m5_a30.stl",
+            "path": "RCA_NAR/remnant_1_m5_a30.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/remnant_1_m5_a30.stl",
+            "opacity": 0.4,
+            "color": "#dd8265",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "remnant_2_m10_a30.stl",
+            "path": "RCA_NAR/remnant_2_m10_a30.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/remnant_2_m10_a30.stl",
+            "opacity": 0.4,
+            "color": "#dd8265",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "remnant_3_m15_a30.stl",
+            "path": "RCA_NAR/remnant_3_m15_a30.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/remnant_3_m15_a30.stl",
+            "opacity": 0.4,
+            "color": "#dd8265",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "right_artery.stl",
+            "path": "RCA_NAR/right_artery.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/right_artery.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "right_tumor.stl",
+            "path": "RCA_NAR/right_tumor.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/right_tumor.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "right_urinary_system.stl",
+            "path": "RCA_NAR/right_urinary_system.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/right_urinary_system.stl",
+            "opacity": 1.0,
+            "color": "#d0e667",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "right_veins.stl",
+            "path": "RCA_NAR/right_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/RCA/master/RCA_NAR/right_veins.stl",
+            "opacity": 1.0,
+            "color": "#8da7f4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}
